@@ -1,0 +1,25 @@
+# Local workout accounts and private user records
+/data/
+*.sqlite3
+*.sqlite3-*
+*.db
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Private configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

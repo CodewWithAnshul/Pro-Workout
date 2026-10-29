@@ -1,2 +1,2 @@
 # Pro-Workout
-A wellness App
+ A wellness app
